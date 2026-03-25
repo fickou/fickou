@@ -48,4 +48,5 @@ Je recherche un stage / opportunité pour développer mes compétences en :
 ## Me contacter
 
 - **Email** : [fickou.daouda@ugb.edu.sn](mailto:fickou.daouda@ugb.edu.sn)
+- **Téléphone** : [+221 78 282 96 73](tel:+221782829673)
 - **Adresse** : Fass Mbao, Dakar, Sénégal

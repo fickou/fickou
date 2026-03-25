@@ -32,7 +32,7 @@ Développeur Full Stack | Passionné par les systèmes web et les bases de donn�
 
 ### 🔹 Vovinam UGB App
 - React + TypeScript + Node.js
-- API REST + MySQL
+- Supabase (Authentification, PostgreSQL, Sécurité au niveau des lignes)
 
 ---
 
